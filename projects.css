@@ -1,0 +1,42 @@
+body {
+	background-color: #FFF8CE;
+}
+
+h1 {
+	font-size: 4em;
+	text-align: center;
+	color: #594C39;
+}
+
+ul {
+	text-align: center;
+	font-size: 2em;
+}
+
+li {
+	list-style-type: none;
+	padding: 5%;
+	display: inline;
+}
+
+a {
+	text-decoration: none;
+	color: #594C39;
+}
+
+
+.title {
+	text-align: center;
+	font-size: 2em;
+}
+
+#pdf {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
+
+#pdfimg {
+	width: 50%;
+	margin: auto;
+}
