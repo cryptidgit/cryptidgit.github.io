@@ -24,10 +24,19 @@ a {
 	color: #594C39;
 }
 
+p {
+	text-align: center;
+}
+
 
 .title {
 	text-align: center;
 	font-size: 2em;
+}
+
+.projectlink {
+	color: #594C94;
+	font-size: 1.5em;
 }
 
 #pdf {
