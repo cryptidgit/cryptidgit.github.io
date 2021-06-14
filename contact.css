@@ -15,7 +15,7 @@ ul {
 
 li {
 	list-style-type: none;
-	padding: 10%;
+	padding: 5%;
 	display: inline;
 }
 
@@ -31,6 +31,17 @@ p {
 	margin-top: 5%;
 }
 
+img {
+	width: 100px;
+	height: 100px;
+	padding: 10px;
+}
+
 #email {
 	color: #000000;
+}
+
+#icons {
+	display: flex;
+	justify-content: center;
 }
